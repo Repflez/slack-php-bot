@@ -24,6 +24,7 @@
 	// If your command must use any other method name than the default for custom commands, it
 	// should be on this list
 	$customCommands = [
+		//'hi' => 'bot_command_welcome',
 	];
 
 	/////////////////////////
